@@ -1,5 +1,4 @@
 // Name: Mark Katigbak
-// Module 3 - Learning Activity 3
 // Temp and Humidity sensor
 
 #include <dht_nonblocking.h>
